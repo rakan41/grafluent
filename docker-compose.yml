@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+    graph_module: 
+        build: ./database-module/
+        ports:
+            - "6969:6969"
+        volumes:
+            - .:/code
+
+        command: bash -c "/usr/wait-for-it.sh --timeout=0 arangodb:8529 && python3 main.py"
+        restart: on-failure
+        depends_on:
+            - arangodb
+
+    arangodb:
+        image: arangodb
+        expose: 
+            - "8529"
+        environment:
+            - ARANGO_ROOT_PASSWORD=z3218473
+    news_api:
+        build: ./twitter/
+        expose:
+            - "8989"
+        restart: on-failure
+        

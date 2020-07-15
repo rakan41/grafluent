@@ -1,6 +1,9 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+# Node js
+node_modules
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -71,4 +74,24 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 data/
-*.csv
+# *.csv
+venv/
+
+
+src/nlp_module/test
+src/deps
+
+.ipynb_checkpoints/
+twitter/app/*ipynb
+twitter/app/apis/command.txt
+twitter/grafluent.ini
+**/__pycache__/
+jupyter/
+
+src/nlp_module/*.json
+src/nlp_module/*.tsv
+src/nlp_module/*.pkl
+src/nlp_module/*.ini
+
+.vscode/
+.idea/
