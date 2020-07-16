@@ -1,0 +1,16 @@
+# Instructions
+# docker secret create aws_creds aws_config.ini 
+# docker stack deploy -c docker-compose.yml secret_app
+version: '3.1'
+services:
+    database_module: 
+        image: rakan41/grafluent:database_module
+        ports:
+            - "6969:6969"
+        secrets:
+            - aws_creds
+        volumes:
+            - ADDDDD MEEE
+secrets:
+    aws_creds:
+        external: true

@@ -1,0 +1,7 @@
+pyarango
+flask
+flask-restx
+boto3
+S3fs
+waitress
+configparser

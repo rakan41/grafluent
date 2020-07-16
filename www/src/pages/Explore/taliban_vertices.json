@@ -1,0 +1,82 @@
+[
+  {
+    "_key": "taliban_ORG",
+    "_id": "vertices/taliban_ORG",
+    "_rev": "_aOZa7qO-_x",
+    "label_orig": "taliban",
+    "label": "taliban",
+    "type": "ORG"
+  },
+  {
+    "_key": "marines_ORG",
+    "_id": "vertices/marines_ORG",
+    "_rev": "_aOZa7qO-_m",
+    "label_orig": "marines",
+    "label": "marines",
+    "type": "ORG"
+  },
+  {
+    "_key": "qari_yousef_ahmadi_PERSON",
+    "_id": "vertices/qari_yousef_ahmadi_PERSON",
+    "_rev": "_aOZa7qO-_u",
+    "label_orig": "qari yousef ahmadi",
+    "label": "qari yousef ahmadi",
+    "type": "PERSON"
+  },
+  {
+    "_key": "lashkar_gah_ORG",
+    "_id": "vertices/lashkar_gah_ORG",
+    "_rev": "_aOZa7qO-_q",
+    "label_orig": "lashkar gah",
+    "label": "lashkar gah",
+    "type": "ORG"
+  },
+  {
+    "_key": "obama_PERSON",
+    "_id": "vertices/obama_PERSON",
+    "_rev": "_aOZa7n2--C",
+    "label_orig": "obama",
+    "label": "obama",
+    "type": "PERSON"
+  },
+  {
+    "_key": "house_ORG",
+    "_id": "vertices/house_ORG",
+    "_rev": "_aOZa7n2--G",
+    "label_orig": "house",
+    "label": "house",
+    "type": "ORG"
+  },
+  {
+    "_key": "the_united_states_court_of_appeals_for_the_district_of_columbia_circuit_ORG",
+    "_id": "vertices/the_united_states_court_of_appeals_for_the_district_of_columbia_circuit_ORG",
+    "_rev": "_aOZa7n2--O",
+    "label_orig": "the united states court of appeals for the district of columbia circuit",
+    "label": "the united states court of appeals for the district of columbia circuit",
+    "type": "ORG"
+  },
+  {
+    "_key": "clinton_PERSON",
+    "_id": "vertices/clinton_PERSON",
+    "_rev": "_aOZa7o--AD",
+    "label_orig": "clinton",
+    "label": "clinton",
+    "type": "PERSON"
+  },
+  {
+    "_key": "army_ORG",
+    "_id": "vertices/army_ORG",
+    "_rev": "_aOZa7oi--Y",
+    "label_orig": "army",
+    "label": "army",
+    "type": "ORG"
+  },
+  {
+    "_key": "the_national_security_council_ORG",
+    "_id": "vertices/the_national_security_council_ORG",
+    "_rev": "_aOZa7oi-_Q",
+    "label_orig": "the national security council",
+    "label": "the national security council",
+    "type": "ORG"
+  }
+]

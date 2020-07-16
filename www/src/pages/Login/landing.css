@@ -1,0 +1,70 @@
+.canvas-body {
+  height: 1000px;
+}
+
+.landing-page {
+  overflow-x: hidden;
+}
+.landing-body {
+  top: 40%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -200px;
+}
+
+.MyTypist {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+.site-card-wrapper {
+  background: white;
+  padding: 50px;
+}
+
+.verticaltimeline-title {
+  background-color: white;
+  color: #ff3f81;
+  margin-left: 45%;
+  margin-right: 45%;
+  font-size: 50px;
+  font-weight: bolder;
+
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.process-timeline {
+  background-color: #22d3f2;
+}
+.processtimeline-title {
+  background-color: #22d3f2;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+.features-text {
+  font-size: 30px;
+  font-weight: bold;
+  vertical-align: middle;
+  padding-top: 25%;
+  padding-bottom: 25%;
+
+  height: 100%;
+}
+
+.cards-title {
+  background-color: white;
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+.cards {
+  background-color: white;
+}
